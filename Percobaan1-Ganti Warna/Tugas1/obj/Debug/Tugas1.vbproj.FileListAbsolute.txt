@@ -1,0 +1,14 @@
+D:\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+D:\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+D:\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+D:\Tugas1\Tugas1\bin\Debug\Tugas1.xml
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.Form1.resources
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.Resources.resources
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.vbproj.GenerateResource.Cache
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+D:\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
+D:\Education\Semester 3\DHS\Latihan Praktikum\Percobaan1-Ganti Warna\Tugas1\bin\Debug\Tugas1.exe.config
+D:\Education\Semester 3\DHS\Latihan Praktikum\Percobaan1-Ganti Warna\Tugas1\obj\Debug\Tugas1.exe
+D:\Education\Semester 3\DHS\Latihan Praktikum\Percobaan1-Ganti Warna\Tugas1\obj\Debug\Tugas1.xml
+D:\Education\Semester 3\DHS\Latihan Praktikum\Percobaan1-Ganti Warna\Tugas1\obj\Debug\Tugas1.pdb
